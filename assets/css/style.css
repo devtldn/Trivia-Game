@@ -1,0 +1,44 @@
+body {
+    background: url("https://thecountryclub.com.au/wp-content/uploads/2017/06/trivia-tuesdays-background.jpg");
+    background-repeat: repeat;
+}
+
+.start-block {
+    text-align: center;
+    margin: 15% 0;
+    padding: 25px;
+    border-style: solid;
+    border-width: 5px;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+.trivia-text {
+    font-family: "Bowlby One SC", cursive;
+    font-size: 92px;
+    padding: 0;
+    margin: 0;
+    color: black;
+
+}
+
+.start-button {
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 42px;
+    padding: 0;
+    background-color: transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+
+.btn:hover {
+    color: #00ff88ee;
+    transition-duration: 0.222222s;
+}
+
+.start-button:active {
+  transform: translateY(7px);
+  transition-duration: 0.151515s;;
+}
