@@ -5,8 +5,8 @@ body {
 
 .start-block {
     text-align: center;
-    margin: 15% 0;
-    padding: 25px;
+    margin: 10% 0;
+    padding: 50px;
     border-style: solid;
     border-width: 5px;
     background-color: rgba(255, 255, 255, 0.8);
@@ -15,6 +15,7 @@ body {
 .trivia-text {
     font-family: "Bowlby One SC", cursive;
     font-size: 92px;
+    letter-spacing: 10px;
     padding: 0;
     margin: 0;
     color: black;
@@ -24,7 +25,8 @@ body {
 .start-button {
     font-family: 'Luckiest Guy', cursive;
     font-size: 42px;
-    padding: 0;
+    letter-spacing: 2.5px;
+    padding: 0; 
     background-color: transparent;
     background-repeat:no-repeat;
     border: none;
@@ -39,6 +41,36 @@ body {
 }
 
 .start-button:active {
-  transform: translateY(7px);
+  transform: translateY(10px);
   transition-duration: 0.151515s;;
+}
+
+#main-content {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+#options, #answer {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 28px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    padding: 0;
+    background-color: transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+
+#options:hover, #answer:hover {
+    color: #00dd76ee;
+}
+
+#options:active, #answer:active {
+    transform: translateX(7px);
+    transition-duration: 0.2222s;;
 }
