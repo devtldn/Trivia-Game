@@ -5,7 +5,7 @@ body {
 
 .start-block {
     text-align: center;
-    margin: 10% 0;
+    margin: 17% 0;
     padding: 50px;
     border-style: solid;
     border-width: 5px;
@@ -22,7 +22,7 @@ body {
 
 }
 
-.start-button {
+.start-button, #nxt-btn {
     font-family: 'Luckiest Guy', cursive;
     font-size: 42px;
     letter-spacing: 2.5px;
@@ -36,25 +36,27 @@ body {
 }
 
 .btn:hover {
-    color: #00ff88ee;
+    color: #00dd76ee;
     transition-duration: 0.222222s;
 }
 
 .start-button:active {
-  transform: translateY(10px);
-  transition-duration: 0.151515s;;
+    color: #33ffa0ee;
+    transform: translateY(10px);
+    transition-duration: 0.151515s;
 }
 
 #main-content {
     font-family: 'Open Sans', sans-serif;
-    font-size: 32px;
+    font-size: 28px;
     font-weight: bold;
+    padding: 0 15%;
     display: inline-block;
 }
 
-#options, #answer {
+.options, .answer {
     font-family: 'Open Sans', sans-serif;
-    font-size: 28px;
+    font-size: 26px;
     letter-spacing: 2px;
     font-weight: bold;
     padding: 0;
@@ -66,11 +68,38 @@ body {
     outline:none;
 }
 
-#options:hover, #answer:hover {
+.options:hover, .answer:hover {
     color: #00dd76ee;
+    transform: translateX(7px);
+    transition-duration: 0.2222s;
 }
 
-#options:active, #answer:active {
-    transform: translateX(7px);
-    transition-duration: 0.2222s;;
+.options:active, .answer:active {
+    color: #33ffa0ee;
+    transform: translateX(12px);
+    transition-duration: 0.151515;;
+}
+
+#u-right, #u-wrong, #gif-load {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 32px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    padding: 0 20%;
+}
+
+#exp {
+    font-size: 26px;
+}
+
+#nxt-btn:hover {
+    color: #ffa011ee;
+    transform: translateX(-10px);
+    transition-duration: 0.2222s;
+}
+
+#nxt-btn:active {
+    color: #ffb13bee;
+    transform: translateX(10px);
+    transition-duration: 0.151515;;
 }
