@@ -80,7 +80,6 @@ $(document).ready(function() {
     };
 
     var score = 0;
-    var myPercentage = (score / 10 * 100) + "%";
 
     function question1() {
         var answerExp = "On July 1st, 1867, Canada became a self-governing dominion of Great Britain and a federation of four provinces.";
@@ -265,7 +264,7 @@ $(document).ready(function() {
     };
 
     function question7() {
-        var answerExp = "Concord grapes are one of only three fruits native to North America. The other two fruits are blueberries and cranberries.";
+        var answerExp = "These three fruits are native to North America: Blueberries, cranberries, and concord grapes.";
 
         $("#main-content").html("<div>Question 7:</div><br>");
         $("#main-content").append(`<div>${q7.question}</div><br>`);
@@ -385,6 +384,8 @@ $(document).ready(function() {
     };
 
     function results() {
+        var myPercentage = (score / 10 * 100) + "%";
+        
         $("#main-content").html("<div>Trivia complete!<div><br>");
         $("#main-content").append("<div>Your score:<div><br>");
         $("#main-content").append(`<div>${myPercentage}<div><br><br>`);
