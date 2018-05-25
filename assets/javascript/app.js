@@ -101,7 +101,7 @@ $(document).ready(function() {
                 $("#main-content").append("<img id='gif-load' src='https://media.giphy.com/media/FejKb3bDS5c9a/giphy.gif'><br><br>");
                 $("#main-content").append("<div id='nxt-btn'>⮕</div>");
                 $("#nxt-btn").click(function() {
-                    $("body").css({ 'background': 'url("https://thumbs.dreamstime.com/b/mistletoe-seamless-wallpaper-festive-design-36062995.jpg")', 'background-repeat': 'repeat', 'overflow': 'auto' });
+                    $("body").css({ 'background': 'url("https://thumbs.dreamstime.com/b/mistletoe-seamless-wallpaper-festive-design-36062995.jpg")', 'background-repeat': 'repeat' });
                     question2();
                 });
             });
@@ -111,7 +111,7 @@ $(document).ready(function() {
                 $("#main-content").append("<img id='gif-load' src='https://media.giphy.com/media/hPPx8yk3Bmqys/giphy.gif'><br><br>");
                 $("#main-content").append("<div id='nxt-btn'>⮕</div>");
                 $("#nxt-btn").click(function() {
-                    $("body").css({ 'background': 'url("https://thumbs.dreamstime.com/b/mistletoe-seamless-wallpaper-festive-design-36062995.jpg")', 'background-repeat': 'repeat', 'overflow': 'auto' });
+                    $("body").css({ 'background': 'url("https://thumbs.dreamstime.com/b/mistletoe-seamless-wallpaper-festive-design-36062995.jpg")', 'background-repeat': 'repeat' });
                     question2();
                 });
             });
@@ -134,7 +134,7 @@ $(document).ready(function() {
             $("#main-content").append("<img id='gif-load' src='https://media.giphy.com/media/MENf6g3B6TGmY/giphy.gif'><br><br>");
             $("#main-content").append("<div id='nxt-btn'>⮕</div>");
             $("#nxt-btn").click(function () {
-                $("body").css({ 'background': 'url("https://digitalnomad.community/wp-content/uploads/2018/04/coinomi-partner-media.jpeg")', 'background-repeat': 'no-repeat', 'background-size': 'cover', 'background-position': 'center center', 'overflow': 'auto' });
+                $("body").css({ 'background': 'url("https://digitalnomad.community/wp-content/uploads/2018/04/coinomi-partner-media.jpeg")', 'background-repeat': 'no-repeat', 'background-size': 'cover', 'background-position': 'center center' });
                 question3();
             });
         });
@@ -144,7 +144,7 @@ $(document).ready(function() {
             $("#main-content").append("<img id='gif-load' src='https://media.giphy.com/media/R8n7YlPHe34dy/giphy.gif'><br><br>");
             $("#main-content").append("<div id='nxt-btn'>⮕</div>");
             $("#nxt-btn").click(function () {
-                $("body").css({ 'background': 'url("https://digitalnomad.community/wp-content/uploads/2018/04/coinomi-partner-media.jpeg")', 'background-repeat': 'no-repeat', 'background-size': 'cover', 'background-position': 'center center', 'overflow': 'auto' });
+                $("body").css({ 'background': 'url("https://digitalnomad.community/wp-content/uploads/2018/04/coinomi-partner-media.jpeg")', 'background-repeat': 'no-repeat', 'background-size': 'cover', 'background-position': 'center center' });
                 question3();
             });
         });
@@ -166,7 +166,7 @@ $(document).ready(function() {
             $("#main-content").append("<img id='gif-load' src='https://media.giphy.com/media/fXgKfzV4aaHQI/giphy.gif'><br><br>");
             $("#main-content").append("<div id='nxt-btn'>⮕</div>");
             $("#nxt-btn").click(function () {
-                $("body").css({ 'background': 'url("http://getwallpapers.com/wallpaper/full/6/0/0/504327.jpg")', 'background-repeat': 'no-repeat', 'background-size': 'cover', 'background-position': 'center center', 'overflow': 'auto' });
+                $("body").css({ 'background': 'url("http://getwallpapers.com/wallpaper/full/6/0/0/504327.jpg")', 'background-repeat': 'no-repeat', 'background-size': 'cover', 'background-position': 'center center' });
                 question4();
             });
         });
@@ -176,7 +176,7 @@ $(document).ready(function() {
             $("#main-content").append("<img id='gif-load' src='https://media.giphy.com/media/CjapibfcpYMZa/giphy.gif'><br><br>");
             $("#main-content").append("<div id='nxt-btn'>⮕</div>");
             $("#nxt-btn").click(function () {
-                $("body").css({ 'background': 'url("http://getwallpapers.com/wallpaper/full/6/0/0/504327.jpg")', 'background-repeat': 'no-repeat', 'background-size': 'cover', 'background-position': 'center center', 'overflow': 'auto' });
+                $("body").css({ 'background': 'url("http://getwallpapers.com/wallpaper/full/6/0/0/504327.jpg")', 'background-repeat': 'no-repeat', 'background-size': 'cover', 'background-position': 'center center' });
                 question4();
             });
         });
@@ -198,7 +198,7 @@ $(document).ready(function() {
             $("#main-content").append("<img id='gif-load' src='https://media.giphy.com/media/3oD3YooLLYg0AfOPdK/giphy.gif'><br><br>");
             $("#main-content").append("<div id='nxt-btn'>⮕</div>");
             $("#nxt-btn").click(function () {
-                $("body").css({ 'background': 'url("https://wallpapersite.com/images/wallpapers/astronaut-2560x1440-mars-sunrise-spaceship-hd-7991.jpg")', 'background-repeat': 'no-repeat', 'background-size': 'cover', 'background-position': 'center center', 'overflow': 'auto' });
+                $("body").css({ 'background': 'url("https://wallpapersite.com/images/wallpapers/astronaut-2560x1440-mars-sunrise-spaceship-hd-7991.jpg")', 'background-repeat': 'no-repeat', 'background-size': 'cover', 'background-position': 'center center' });
                 question5();
             });
         });
@@ -208,7 +208,7 @@ $(document).ready(function() {
             $("#main-content").append("<img id='gif-load' src='https://media.giphy.com/media/iN5qfn8S2qVgI/giphy.gif'><br><br>");
             $("#main-content").append("<div id='nxt-btn'>⮕</div>");
             $("#nxt-btn").click(function () {
-                $("body").css({ 'background': 'url("https://wallpapersite.com/images/wallpapers/astronaut-2560x1440-mars-sunrise-spaceship-hd-7991.jpg")', 'background-repeat': 'no-repeat', 'background-size': 'cover', 'background-position': 'center center', 'overflow': 'auto' });
+                $("body").css({ 'background': 'url("https://wallpapersite.com/images/wallpapers/astronaut-2560x1440-mars-sunrise-spaceship-hd-7991.jpg")', 'background-repeat': 'no-repeat', 'background-size': 'cover', 'background-position': 'center center' });
                 question5();
             });
         });
@@ -230,7 +230,7 @@ $(document).ready(function() {
             $("#main-content").append("<img id='gif-load' src='https://media.giphy.com/media/cEYFeE4wJ6jdDVBiiIM/giphy.gif'><br><br>");
             $("#main-content").append("<div id='nxt-btn'>⮕</div>");
             $("#nxt-btn").click(function () {
-                $("body").css({ 'background': 'url("https://i.pinimg.com/736x/b4/3f/90/b43f90b3bd72280214e7d53f5d9910ce--wallpaper-samsung-cat-wallpaper.jpg")', 'background-repeat': 'repeat', 'overflow': 'auto' });
+                $("body").css({ 'background': 'url("https://i.pinimg.com/736x/b4/3f/90/b43f90b3bd72280214e7d53f5d9910ce--wallpaper-samsung-cat-wallpaper.jpg")', 'background-repeat': 'repeat' });
                 question6();
             });
         });
@@ -240,7 +240,7 @@ $(document).ready(function() {
             $("#main-content").append("<img id='gif-load' src='https://media.giphy.com/media/cwTtbmUwzPqx2/giphy.gif'><br><br>");
             $("#main-content").append("<div id='nxt-btn'>⮕</div>");
             $("#nxt-btn").click(function () {
-                $("body").css({ 'background': 'url("https://i.pinimg.com/736x/b4/3f/90/b43f90b3bd72280214e7d53f5d9910ce--wallpaper-samsung-cat-wallpaper.jpg")', 'background-repeat': 'repeat', 'overflow': 'auto' });
+                $("body").css({ 'background': 'url("https://i.pinimg.com/736x/b4/3f/90/b43f90b3bd72280214e7d53f5d9910ce--wallpaper-samsung-cat-wallpaper.jpg")', 'background-repeat': 'repeat' });
                 question6();
             });
         });
@@ -262,7 +262,7 @@ $(document).ready(function() {
             $("#main-content").append("<img id='gif-load' src='https://media.giphy.com/media/NGxO35FivioMw/giphy.gif'><br><br>");
             $("#main-content").append("<div id='nxt-btn'>⮕</div>");
             $("#nxt-btn").click(function () {
-                $("body").css({ 'background': 'url("https://media.giphy.com/media/QrYpdVF1uRvb2/giphy.gif")', 'background-repeat': 'repeat', 'overflow': 'auto' });
+                $("body").css({ 'background': 'url("https://media.giphy.com/media/QrYpdVF1uRvb2/giphy.gif")', 'background-repeat': 'repeat' });
                 question7();
             });
         });
@@ -272,7 +272,7 @@ $(document).ready(function() {
             $("#main-content").append("<img id='gif-load' src='https://media.giphy.com/media/CPskAi4C6WLHa/giphy.gif'><br><br>");
             $("#main-content").append("<div id='nxt-btn'>⮕</div>");
             $("#nxt-btn").click(function () {
-                $("body").css({ 'background': 'url("https://media.giphy.com/media/QrYpdVF1uRvb2/giphy.gif")', 'background-repeat': 'repeat', 'overflow': 'auto' });
+                $("body").css({ 'background': 'url("https://media.giphy.com/media/QrYpdVF1uRvb2/giphy.gif")', 'background-repeat': 'repeat' });
                 question7();
             });
         });
@@ -294,7 +294,7 @@ $(document).ready(function() {
             $("#main-content").append("<img id='gif-load' src='https://media.giphy.com/media/KyGC8og5fhXs05yVHV/giphy.gif'><br><br>");
             $("#main-content").append("<div id='nxt-btn'>⮕</div>");
             $("#nxt-btn").click(function () {
-                $("body").css({ 'background': 'url("https://img3.goodfon.com/wallpaper/big/d/1e/super-mario-igra-voprosiki.jpg")', 'background-repeat': 'repeat', 'overflow': 'auto' });
+                $("body").css({ 'background': 'url("https://img3.goodfon.com/wallpaper/big/d/1e/super-mario-igra-voprosiki.jpg")', 'background-repeat': 'repeat' });
                 question8();
             });
         });
@@ -304,7 +304,7 @@ $(document).ready(function() {
             $("#main-content").append("<img id='gif-load' src='https://media.giphy.com/media/LyrRqqwD6Orf2/giphy.gif'><br><br>");
             $("#main-content").append("<div id='nxt-btn'>⮕</div>");
             $("#nxt-btn").click(function () {
-                $("body").css({ 'background': 'url("https://img3.goodfon.com/wallpaper/big/d/1e/super-mario-igra-voprosiki.jpg")', 'background-repeat': 'repeat', 'overflow': 'auto' });
+                $("body").css({ 'background': 'url("https://img3.goodfon.com/wallpaper/big/d/1e/super-mario-igra-voprosiki.jpg")', 'background-repeat': 'repeat' });
                 question8();
             });
         });
@@ -326,7 +326,7 @@ $(document).ready(function() {
             $("#main-content").append("<img id='gif-load' src='https://media.giphy.com/media/l0HlB3SjAa0ZWpk1W/giphy.gif'><br><br>");
             $("#main-content").append("<div id='nxt-btn'>⮕</div>");
             $("#nxt-btn").click(function () {
-                $("body").css({ 'background': 'url("https://img00.deviantart.net/fcb1/i/2015/104/9/e/best_animated_feature_race_2015_by_mockingbyrd-d8j2w8o.jpg")', 'background-repeat': 'repeat', 'overflow': 'auto' });
+                $("body").css({ 'background': 'url("https://img00.deviantart.net/fcb1/i/2015/104/9/e/best_animated_feature_race_2015_by_mockingbyrd-d8j2w8o.jpg")', 'background-repeat': 'repeat' });
                 question9();
             });
         });
@@ -336,7 +336,7 @@ $(document).ready(function() {
             $("#main-content").append("<img id='gif-load' src='https://media.giphy.com/media/a5viI92PAF89q/giphy.gif'><br><br>");
             $("#main-content").append("<div id='nxt-btn'>⮕</div>");
             $("#nxt-btn").click(function () {
-                $("body").css({ 'background': 'url("https://img00.deviantart.net/fcb1/i/2015/104/9/e/best_animated_feature_race_2015_by_mockingbyrd-d8j2w8o.jpg")', 'background-repeat': 'repeat', 'overflow': 'auto' });
+                $("body").css({ 'background': 'url("https://img00.deviantart.net/fcb1/i/2015/104/9/e/best_animated_feature_race_2015_by_mockingbyrd-d8j2w8o.jpg")', 'background-repeat': 'repeat' });
                 question9();
             });
         });
@@ -359,7 +359,7 @@ $(document).ready(function() {
             $("#main-content").append("<img id='gif-load' src='https://media.giphy.com/media/103tn1vedgQpfW/giphy.gif'><br><br>");
             $("#main-content").append("<div id='nxt-btn'>⮕</div>");
             $("#nxt-btn").click(function () {
-                $("body").css({ 'background': 'url("https://momentum-designs.com/wp-content/uploads/2016/01/Momentum_Designs_Kelowna_Fabrics_Wallpaper.jpg")', 'background-repeat': 'repeat', 'overflow': 'auto' });
+                $("body").css({ 'background': 'url("https://momentum-designs.com/wp-content/uploads/2016/01/Momentum_Designs_Kelowna_Fabrics_Wallpaper.jpg")', 'background-repeat': 'repeat' });
                 question10();
             });
         });
@@ -369,7 +369,7 @@ $(document).ready(function() {
             $("#main-content").append("<img id='gif-load' src='https://media.giphy.com/media/ZmZ5hwzX1dgQw/giphy.gif'><br><br>");
             $("#main-content").append("<div id='nxt-btn'>⮕</div>");
             $("#nxt-btn").click(function () {
-                $("body").css({ 'background': 'url("https://momentum-designs.com/wp-content/uploads/2016/01/Momentum_Designs_Kelowna_Fabrics_Wallpaper.jpg")', 'background-repeat': 'repeat', 'overflow': 'auto' });
+                $("body").css({ 'background': 'url("https://momentum-designs.com/wp-content/uploads/2016/01/Momentum_Designs_Kelowna_Fabrics_Wallpaper.jpg")', 'background-repeat': 'repeat' });
                 question10();
             });
         });
@@ -390,7 +390,7 @@ $(document).ready(function() {
             $("#main-content").append("<img id='gif-load' src='https://media.giphy.com/media/xTiQyBOIQe5cgiyUPS/giphy.gif'><br><br>");
             $("#main-content").append("<div id='nxt-btn'>⮕</div>");
             $("#nxt-btn").click(function () {
-                $("body").css({ 'background': 'url("https://thecountryclub.com.au/wp-content/uploads/2017/06/trivia-tuesdays-background.jpg")', 'background-repeat': 'repeat', 'overflow': 'auto' });
+                $("body").css({ 'background': 'url("https://thecountryclub.com.au/wp-content/uploads/2017/06/trivia-tuesdays-background.jpg")', 'background-repeat': 'repeat' });
                 question10();
                 results();
             });
@@ -401,7 +401,7 @@ $(document).ready(function() {
             $("#main-content").append("<img id='gif-load' src='https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif'><br><br>");
             $("#main-content").append("<div id='nxt-btn'>⮕</div>");
             $("#nxt-btn").click(function () {
-                $("body").css({ 'background': 'url("https://thecountryclub.com.au/wp-content/uploads/2017/06/trivia-tuesdays-background.jpg")', 'background-repeat': 'repeat', 'overflow': 'auto' });
+                $("body").css({ 'background': 'url("https://thecountryclub.com.au/wp-content/uploads/2017/06/trivia-tuesdays-background.jpg")', 'background-repeat': 'repeat' });
                 question10();
                 results();
             });
